@@ -4,7 +4,7 @@ Created on Wed Sep 11 18:00:07 2019
 
 @author: Krishna
 """
-
+import PIL
 import tensorflow as tf
 import keras
 from keras.models import Sequential
